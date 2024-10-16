@@ -21,7 +21,7 @@ int main(){
         }
     }
     else{
-        if(a < b){
+        if(a == b){
             printf("Right\n");
         }
         else{
